@@ -1,4 +1,4 @@
-#vim-getinspired
+# vim-getinspired
 Get a daily quote to keep high morale :)
 
 ##Install
@@ -8,9 +8,8 @@ Plug 'mattn/webapi-vim'
 Plug 'fabiosal/vim-getinspired'
 ```
 
-##Commands
+## Commands
 Use *:GetInspired* to get the daily quote in the quickfix list
 
-##Service
+## Service
 Quotes are fetched using *http://quotes.rest* api service. 
-
